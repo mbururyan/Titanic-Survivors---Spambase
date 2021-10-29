@@ -1,7 +1,10 @@
-# HTITANIC SURVIVORS
+# HTITANIC SURVIVORS % EMAIL SPAM
 
 # Introduction
-This is a project that attempts to predict which passengers in the infamous Titanic survived when the ship hit an iceberg.
+This is a repository with two projects : 
+
+1. A project that attempts to predict which passengers in the infamous Titanic survived when the ship hit an iceberg.
+2. A project that predicts whether an email is spam or not
 
 # Names of Contributors
 - Ryan Mburu
